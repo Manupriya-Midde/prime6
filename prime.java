@@ -8,4 +8,4 @@ public class PrimeNumbersShort {
             if (isPrime) System.out.print(i + " ");
         }
     }
-}
+}//juydkkdk7
